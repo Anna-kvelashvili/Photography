@@ -4,3 +4,21 @@
   margin: 0;
   padding: 0;
 }
+.container {
+  max-width: 1400px;
+  width: 100%;
+  background-color: black;
+  height: 150px;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.logo img {
+  width: 100px;
+  border-radius: 50px;
+}
+.navBar a {
+color: white;
+margin-right: 50px;
+}
+
