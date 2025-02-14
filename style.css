@@ -22,3 +22,20 @@ color: white;
 margin-right: 50px;
 }
 
+.image-box {
+  max-width: 1400px;
+  width: 100%;
+  display: flex;
+}
+.images {
+  width: 100%;
+  position: relative;
+}
+.image-box p {
+  position: absolute;
+  color: white;
+  width: 1000px;
+  font-size: 30px;
+  margin-left: 20px;
+  margin-top: 800px;
+}
